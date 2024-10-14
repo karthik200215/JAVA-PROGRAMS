@@ -1,6 +1,6 @@
 package com.javaprograms.pattern;
 import java.util.Scanner;
-public class ALPHABETS {
+public class ALPHA {
 	    public static void main(String args[]) {
 		Scanner sc =new Scanner(System.in);
 		System.out.println("enter the size");

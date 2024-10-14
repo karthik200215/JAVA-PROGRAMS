@@ -1,5 +1,4 @@
 package com.javaprograms.pattern;
-
 import java.util.Scanner;
 
 public class E {
